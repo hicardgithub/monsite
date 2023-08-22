@@ -1,0 +1,27 @@
+body{background-color:pink; margin:0; padding:0;}
+
+.global{
+	widht:100%;
+	height:630px;
+	background-color:#E6E6FA;
+}
+
+.header{
+	width:100%;
+	height:150px;
+	background-color:#F0FFFF;
+}
+
+.sidebar{
+	width:25%;
+	height:450px;
+	background-color:#F0F8FF;
+	float:left;
+}
+
+.content{
+	width:75%;
+	height:450px;
+	background-color:#FFFAF0;
+	float:left;
+}
